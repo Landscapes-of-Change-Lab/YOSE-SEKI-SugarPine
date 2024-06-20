@@ -24,7 +24,7 @@ The repository is organized as follows:
 
 ## Getting Started
 
-git clone https://github.com/your-username/BreadcrumbsYOSE-SEKI-SugarPine.git
+git clone https://github.com/your-username/YOSE-SEKI-SugarPine.git
 
 
 
